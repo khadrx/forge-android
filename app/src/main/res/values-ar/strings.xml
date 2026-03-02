@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values-ar/strings.xml — REPLACE full file -->
+<resources>
+    <!-- App -->
+    <string name="app_name">Forge</string>
+
+    <!-- Nav -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_schedule">الجدول</string>
+    <string name="nav_tasks">المهام</string>
+    <string name="nav_budget">الميزانية</string>
+    <string name="nav_reminders">تذكير</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_morning">صباح الخير.</string>
+    <string name="greeting_afternoon">مساء الخير.</string>
+    <string name="greeting_evening">مساء النور.</string>
+    <string name="overview">نظرة عامة</string>
+    <string name="tasks_left">مهام متبقية</string>
+    <string name="budget_egp">الميزانية (ج.م)</string>
+    <string name="events">أحداث</string>
+    <string name="today_focus">تركيز اليوم</string>
+    <string name="top_priority">الأولوية القصوى</string>
+    <string name="no_tasks_today">لا مهام — يومك صافي!</string>
+    <string name="see_all">عرض الكل ←</string>
+
+    <!-- Tasks -->
+    <string name="tasks">المهام</string>
+    <string name="tasks_remaining">%1$s متبقية</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="edit_task">تعديل المهمة</string>
+    <string name="new_task">مهمة جديدة</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="task_title">عنوان المهمة</string>
+    <string name="description_optional">الوصف (اختياري)</string>
+    <string name="category_hint">التصنيف (عمل، شخصي…)</string>
+    <string name="priority">الأولوية</string>
+    <string name="priority_high">عالية</string>
+    <string name="priority_medium">متوسطة</string>
+    <string name="priority_low">منخفضة</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_pending">قيد التنفيذ</string>
+    <string name="filter_done">مكتملة</string>
+    <string name="clear_completed">حذف المكتملة</string>
+    <string name="all_caught_up">أنجزت كل شيء!</string>
+    <string name="no_completed_tasks">لا مهام مكتملة</string>
+    <string name="no_tasks_yet">لا مهام — أضف أولى مهامك</string>
+
+    <!-- Schedule -->
+    <string name="schedule">الجدول</string>
+    <string name="add_event">إضافة حدث</string>
+    <string name="edit_event">تعديل الحدث</string>
+    <string name="new_event">حدث جديد</string>
+    <string name="event_title">عنوان الحدث</string>
+    <string name="time">الوقت</string>
+    <string name="start">البداية</string>
+    <string name="end">النهاية</string>
+    <string name="end_time">وقت الانتهاء</string>
+    <string name="today">اليوم</string>
+    <string name="tomorrow">غداً</string>
+    <string name="nothing_scheduled">لا شيء مجدول اليوم</string>
+    <string name="no_events_day">لا أحداث في هذا اليوم</string>
+
+    <!-- Budget -->
+    <string name="budget">الميزانية</string>
+    <string name="balance">الرصيد</string>
+    <string name="income">الدخل</string>
+    <string name="spent">المصروف</string>
+    <string name="remaining">المتبقي</string>
+    <string name="this_month">هذا الشهر</string>
+    <string name="add_transaction">إضافة معاملة</string>
+    <string name="edit_transaction">تعديل المعاملة</string>
+    <string name="new_transaction">معاملة جديدة</string>
+    <string name="transaction_title">العنوان</string>
+    <string name="amount">المبلغ (ج.م)</string>
+    <string name="amount_hint">٠٫٠٠</string>
+    <string name="category">التصنيف</string>
+    <string name="type">النوع</string>
+    <string name="type_income">دخل</string>
+    <string name="type_expense">مصروف</string>
+    <string name="transactions">المعاملات</string>
+    <string name="no_transactions">لا معاملات بعد</string>
+    <string name="spent_pct">صُرف %1$s</string>
+    <string name="left_pct">متبقي %1$s</string>
+    <string name="cat_food">طعام</string>
+    <string name="cat_transport">مواصلات</string>
+    <string name="cat_shopping">تسوق</string>
+    <string name="cat_health">صحة</string>
+    <string name="cat_bills">فواتير</string>
+    <string name="cat_salary">راتب</string>
+    <string name="cat_freelance">فريلانس</string>
+    <string name="cat_other">أخرى</string>
+
+    <!-- Reminders -->
+    <string name="reminders">التذكيرات</string>
+    <string name="add_reminder">إضافة تذكير</string>
+    <string name="edit_reminder">تعديل التذكير</string>
+    <string name="new_reminder">تذكير جديد</string>
+    <string name="reminder_title">عنوان التذكير</string>
+    <string name="reminder_note">ملاحظة (اختياري)</string>
+    <string name="reminder_date">التاريخ</string>
+    <string name="reminder_time">الوقت</string>
+    <string name="reminder_repeat">التكرار</string>
+    <string name="repeat_none">لا يتكرر</string>
+    <string name="repeat_daily">يومياً</string>
+    <string name="repeat_weekly">أسبوعياً</string>
+    <string name="repeat_monthly">شهرياً</string>
+    <string name="no_reminders">لا تذكيرات — ابقَ متقدماً</string>
+    <string name="upcoming">القادمة</string>
+    <string name="past">السابقة</string>
+    <string name="overdue">فات وقته</string>
+    <string name="notification_permission">اسمح بالإشعارات لاستقبال التذكيرات</string>
+    <string name="grant_permission">السماح</string>
+    <string name="reminder_channel_name">تذكيرات فورج</string>
+    <string name="reminder_channel_desc">التذكيرات والتنبيهات من فورج</string>
+    <string name="in_x_minutes">بعد %1$s دقيقة</string>
+    <string name="in_x_hours">بعد %1$s ساعة</string>
+
+    <!-- Settings -->
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+    <string name="appearance">المظهر</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="dark_mode_desc">التبديل بين الوضع الفاتح والداكن</string>
+    <string name="language_desc">تغيير لغة التطبيق واتجاه التخطيط</string>
+    <string name="about">عن التطبيق</string>
+    <string name="version">الإصدار</string>
+    <string name="coming_soon">قريباً</string>
+
+    <!-- Common -->
+    <string name="close">إغلاق</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="confirm">تأكيد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="note_optional">ملاحظة (اختياري)</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="title">العنوان</string>
+
+    <!-- Settings new -->
+    <string name="settings_font">الخط</string>
+    <string name="settings_text_size">حجم النص</string>
+    <string name="settings_notifications">الإشعارات</string>
+    <string name="settings_ringtone">نغمة المنبه</string>
+    <string name="settings_ringtone_default">النغمة الافتراضية</string>
+
+    <!-- Toast validation -->
+    <string name="toast_field_required">يرجى ملء هذا الحقل</string>
+    <string name="toast_title_required">العنوان مطلوب</string>
+    <string name="toast_amount_required">يرجى إدخال مبلغ</string>
+    <string name="toast_amount_invalid">المبلغ يجب أن يكون أكبر من صفر</string>
+    <string name="toast_date_required">يرجى اختيار التاريخ</string>
+    <string name="toast_time_required">يرجى اختيار الوقت</string>
+    <string name="toast_end_before_start">وقت النهاية يجب أن يكون بعد البداية</string>
+    <string name="toast_saved">تم الحفظ</string>
+    <string name="toast_deleted">تم الحذف</string>
+</resources>

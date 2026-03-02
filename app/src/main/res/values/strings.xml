@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/strings.xml — REPLACE full file -->
+<resources>
+    <!-- App -->
+    <string name="app_name">Forge</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_reminders">Remind</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_morning">Good morning.</string>
+    <string name="greeting_afternoon">Good afternoon.</string>
+    <string name="greeting_evening">Good evening.</string>
+    <string name="overview">Overview</string>
+    <string name="tasks_left">Tasks left</string>
+    <string name="budget_egp">Budget (EGP)</string>
+    <string name="events">Events</string>
+    <string name="today_focus">Today\'s focus</string>
+    <string name="top_priority">Top Priority</string>
+    <string name="no_tasks_today">No tasks — you\'re clear!</string>
+    <string name="see_all">See all →</string>
+
+    <!-- Tasks -->
+    <string name="tasks">Tasks</string>
+    <string name="tasks_remaining">%1$s remaining</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="new_task">New Task</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="task_title">Task title</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="category_hint">Category (Work, Personal…)</string>
+    <string name="priority">Priority</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="filter_all">All</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_done">Done</string>
+    <string name="clear_completed">Clear completed</string>
+    <string name="all_caught_up">All caught up!</string>
+    <string name="no_completed_tasks">No completed tasks</string>
+    <string name="no_tasks_yet">No tasks — add your first</string>
+
+    <!-- Schedule -->
+    <string name="schedule">Schedule</string>
+    <string name="add_event">Add Event</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="new_event">New Event</string>
+    <string name="event_title">Event title</string>
+    <string name="time">Time</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="end_time">End time</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="nothing_scheduled">Nothing scheduled today</string>
+    <string name="no_events_day">No events on this day</string>
+
+    <!-- Budget -->
+    <string name="budget">Budget</string>
+    <string name="balance">Balance</string>
+    <string name="income">Income</string>
+    <string name="spent">Spent</string>
+    <string name="remaining">Remaining</string>
+    <string name="this_month">This month</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="new_transaction">New Transaction</string>
+    <string name="transaction_title">Title</string>
+    <string name="amount">Amount (EGP)</string>
+    <string name="amount_hint">0.00</string>
+    <string name="category">Category</string>
+    <string name="type">Type</string>
+    <string name="type_income">Income</string>
+    <string name="type_expense">Expense</string>
+    <string name="transactions">Transactions</string>
+    <string name="no_transactions">No transactions yet</string>
+    <string name="spent_pct">Spent %1$s</string>
+    <string name="left_pct">%1$s left</string>
+    <string name="cat_food">Food</string>
+    <string name="cat_transport">Transport</string>
+    <string name="cat_shopping">Shopping</string>
+    <string name="cat_health">Health</string>
+    <string name="cat_bills">Bills</string>
+    <string name="cat_salary">Salary</string>
+    <string name="cat_freelance">Freelance</string>
+    <string name="cat_other">Other</string>
+
+    <!-- Reminders -->
+    <string name="reminders">Reminders</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="new_reminder">New Reminder</string>
+    <string name="reminder_title">Reminder title</string>
+    <string name="reminder_note">Note (optional)</string>
+    <string name="reminder_date">Date</string>
+    <string name="reminder_time">Time</string>
+    <string name="reminder_repeat">Repeat</string>
+    <string name="repeat_none">None</string>
+    <string name="repeat_daily">Daily</string>
+    <string name="repeat_weekly">Weekly</string>
+    <string name="repeat_monthly">Monthly</string>
+    <string name="no_reminders">No reminders — stay ahead</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="past">Past</string>
+    <string name="overdue">Overdue</string>
+    <string name="notification_permission">Allow notifications to receive reminders</string>
+    <string name="grant_permission">Allow</string>
+    <string name="reminder_channel_name">Forge Reminders</string>
+    <string name="reminder_channel_desc">Reminders and alerts from Forge</string>
+    <string name="in_x_minutes">In %1$s min</string>
+    <string name="in_x_hours">In %1$s hr</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Switch between light and dark theme</string>
+    <string name="language_desc">Change app language and layout direction</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="coming_soon">Coming soon</string>
+
+    <!-- Common -->
+    <string name="close">Close</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="note_optional">Note (optional)</string>
+    <string name="loading">Loading…</string>
+    <string name="title">Title</string>
+
+    <!-- Settings new -->
+    <string name="settings_font">Font</string>
+    <string name="settings_text_size">Text Size</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_ringtone">Ringtone</string>
+    <string name="settings_ringtone_default">System Default</string>
+
+    <!-- Toast validation -->
+    <string name="toast_field_required">Please fill in this field</string>
+    <string name="toast_title_required">Title is required</string>
+    <string name="toast_amount_required">Please enter an amount</string>
+    <string name="toast_amount_invalid">Amount must be greater than 0</string>
+    <string name="toast_date_required">Please select a date</string>
+    <string name="toast_time_required">Please select a time</string>
+    <string name="toast_end_before_start">End time must be after start</string>
+    <string name="toast_saved">Saved</string>
+    <string name="toast_deleted">Deleted</string>
+</resources>
